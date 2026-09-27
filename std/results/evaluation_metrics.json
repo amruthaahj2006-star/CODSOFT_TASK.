@@ -1,0 +1,38 @@
+{
+    "Logistic Regression": {
+        "model_name": "Logistic Regression",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "roc_auc": 1.0,
+        "pr_auc": 1.0,
+        "confusion_matrix": [
+            [
+                3988,
+                0
+            ],
+            [
+                0,
+                12
+            ]
+        ]
+    },
+    "Random Forest": {
+        "model_name": "Random Forest",
+        "precision": 1.0,
+        "recall": 0.8333,
+        "f1_score": 0.9091,
+        "roc_auc": 1.0,
+        "pr_auc": 0.9936,
+        "confusion_matrix": [
+            [
+                3988,
+                0
+            ],
+            [
+                2,
+                10
+            ]
+        ]
+    }
+}
